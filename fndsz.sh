@@ -23,6 +23,7 @@ sed -i '$a src-git immortalwrt https://github.com/immortalwrt/packages' feeds.co
 
 ####### MMDVM
 git clone https://github.com/fndsz/mmdvm-op.git package/mmdvm/mmdvm-openwrt
+git clone https://github.com/fndsz/mmdvmpatch.git package/mmdvm/mmdvm-openwrt
 
 ####### wolplus
 git clone https://github.com/siwind/luci-app-wolplus.git package/lean/luci-app-wolplus 
