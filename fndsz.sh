@@ -14,7 +14,7 @@
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add a feed source
-sed -i '$a src-git immortalwrt https://github.com/immortalwrt/packages' feeds.conf.default
+#sed -i '$a src-git immortalwrt https://github.com/immortalwrt/packages' feeds.conf.default
 
 ####### MMDVM
 git clone https://github.com/fndsz/mmdvm-op.git package/mmdvm/mmdvm-openwrt
