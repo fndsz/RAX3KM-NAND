@@ -17,7 +17,7 @@
 #sed -i '$a src-git immortalwrt https://github.com/immortalwrt/packages' feeds.conf.default
 
 ####### MMDVM
-git clone https://github.com/fndsz/mmdvm-op.git package/mmdvm/mmdvm-openwrt
+git clone https://github.com/fndsz/mmdvm-openwrt.git package/mmdvm/mmdvm-openwrt
 #git clone https://github.com/fndsz/mmdvmpatch.git package/mmdvm/mmdvm-openwrt
 
 ####### wolplus
