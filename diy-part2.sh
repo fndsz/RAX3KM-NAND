@@ -23,5 +23,5 @@ sed -i 's/ImmortalWrt/RAX3KM/g' package/base-files/files/bin/config_generate
 sed -i '/set luci.main.mediaurlbase=\/luci-static\/bootstrap/d' feeds/luci/themes/luci-theme-bootstrap/root/etc/uci-defaults/30_luci-theme-bootstrap
 
 # 修改默认主题
-#sed -i 's/luci-theme-bootstrap/luci-theme-argon/g' ./feeds/luci/collections/luci/Makefile
+sed -i 's/luci-theme-bootstrap/Bootstrap_MMDVM/g' ./feeds/luci/collections/luci/Makefile
 
