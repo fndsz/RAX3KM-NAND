@@ -22,3 +22,6 @@ git clone https://github.com/fndsz/mmdvm-op.git package/mmdvm/mmdvm-openwrt
 
 ####### wolplus
 git clone https://github.com/siwind/luci-app-wolplus.git package/lean/luci-app-wolplus
+
+####### lucky
+git clone https://github.com/sirpdboy/luci-app-lucky.git package/lucky
