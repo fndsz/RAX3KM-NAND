@@ -18,10 +18,10 @@
 
 ####### MMDVM
 git clone https://github.com/fndsz/mmdvm-op.git package/mmdvm
-#git clone https://github.com/fndsz/mmdvmpatch.git package/mmdvm/mmdvm-openwrt
+#git clone https://github.com/fndsz/mmdvmpatch.git package/mmdvm
 
 ####### wolplus
-git clone https://github.com/siwind/luci-app-wolplus.git package/lean/luci-app-wolplus
+git clone https://github.com/siwind/luci-app-wolplus.git package/luci-app-wolplus
 
 ####### lucky
 git clone https://github.com/sirpdboy/luci-app-lucky.git package/lucky
